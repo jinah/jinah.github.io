@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>small potato</title>
+        <title>{{ page.title }}</title>
         <meta name="viewport" content="width=device-width">
         <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
 
@@ -51,21 +51,7 @@
         </header>
         <section>
           <div class="line">
-            <div id="home">
-  <h1>What I Learned Today!</h1>
-  <ul class="posts">
-    
-      <li><span>28 Mar 2014</span> &raquo; <a href="/2014/03/28/jsla.html">Angular.js</a></li>
-      	We set off to learn some Angular!<br>
-      		<a href="/2014/03/28/jsla.html">Read more...</a><br><br>
-    
-      <li><span>26 Mar 2014</span> &raquo; <a href="/2014/03/26/helloworld.html">Hello World</a></li>
-      	hi. oh hi. hello!<br>
-      		<a href="/2014/03/26/helloworld.html">Read more...</a><br><br>
-    
-  </ul>
-</div>
-
+            {{ content }}
           </div>
 
         </section>

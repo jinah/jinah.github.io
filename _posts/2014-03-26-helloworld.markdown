@@ -1,6 +1,6 @@
 ---
 layout: post
 title: Hello World
-excerpt: messing around
+excerpt: hi. oh hi. hello!
 ---
-this just doesn't work
+hi. oh hi. hello!
