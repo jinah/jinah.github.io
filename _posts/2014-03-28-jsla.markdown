@@ -5,7 +5,7 @@ excerpt: We set off to learn some Angular!
 ---
 # ng-meetup
 
-Yesterday, I convinced Christine and Chloe to join me and Isaac for a scintillating talk on Angular.js. It almost didn't happen. But in the end, everyone was glad they went!
+Yesterday, I convinced Jason and Birdine to join me and Isaac for a scintillating talk on Angular.js. It almost didn't happen. But in the end, everyone was glad they went!
 
 This js.la event featured Ari Lerner, author of *ng-book*. The presentation was fantastic for three reasons:
 
