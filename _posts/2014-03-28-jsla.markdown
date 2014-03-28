@@ -1,0 +1,24 @@
+---
+layout: test1
+title: Angular.js
+excerpt: We set off to learn some Angular!
+---
+# ng-meetup
+
+Yesterday, I convinced Christine and Chloe to join me and Isaac for a scintillating talk on Angular.js. It almost didn't happen. But in the end, everyone was glad they went!
+
+This js.la event featured Ari Lerner, author of *ng-book*. The presentation was fantastic for three reasons:
+
+1. He had a well-designed HTML presentation with interactive demos
+2. He made us laugh a lot with his awkward sense of humor
+3. He went fast, so it wasn't boring
+
+Going into the talk, I didn't know any Angular, but I left a little more enlightened. Here are three things I learned:
+
+1. Angular addresses tight-coupling between disparate js and html files. A designer might change a \<h1\> tag to \<h2\>, yet the js would still be looking for a \<h1\>. This is tight-coupling.
+2. Directives are functions attached to tags. It looks like ng-[something], but is the same as data-ng-[something].
+3. When you add 'ng-controller' to a tag, you can access its methods in any of the tag's children. The methods are defined in the js as $scope.[functionName].
+
+There was one important way Ari could have improved his talk: focus on teaching. He had a tendency to promote his book. At first, the addendum "There's a book on that" was funny, but responding with simply that to a Q/A question was doing a disservice to the audience. Clearly he knows his stuff, because he'd say "There are 90 pages on that topic in my book." So please, answer the question.
+
+Overall, I did borrow a copy of his book, and I'm excited to try it out.
