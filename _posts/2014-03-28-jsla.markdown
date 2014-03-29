@@ -1,9 +1,9 @@
 ---
 layout: test1
-title: Angular.js
-excerpt: We set off to learn some Angular!
+title: ng-meetup
+excerpt: wherein Ari Lerner tells us to buy his book...
 ---
-# ng-meetup
+# {{ page.title }}
 
 Yesterday, I convinced Jason and Birdine to join me and Isaac for a scintillating talk on Angular.js. It almost didn't happen. But in the end, everyone was glad they went!
 

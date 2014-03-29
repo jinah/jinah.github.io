@@ -1,0 +1,8 @@
+.line {
+  box-shadow: inset 5px 0 0 #F2F2F2;
+  float: left;
+  position: relative;
+  padding-left: 20px;
+  width: 65%;
+  height:100%;
+}

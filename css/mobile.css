@@ -1,0 +1,29 @@
+body,
+header,
+#main {
+	float: none;
+ 	width: 100%;
+ 	margin: 0 auto;
+ 	display: block;
+ }
+
+ header {
+ 	background: #FA8072; /* salmon */
+ 	padding: 2% 0;
+ 	display: inline-block;
+ }
+
+.logo {
+	float: none;
+	margin: 0% auto;
+}
+
+#main {
+	background: #7FFFD4; /* mint */
+	display: inline-block;
+	padding: 0 5%;
+}
+
+#main h1 {
+	text-align: center;
+}

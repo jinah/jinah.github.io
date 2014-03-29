@@ -1,0 +1,33 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+body, html {
+  height:100%;        
+}
+  
+header {
+  display: inline-block;
+  float: left;
+  width: 18%;
+  text-align: center;
+}       
+
+#main {
+  width: 90%;
+  margin: 0 5% 0 18%;
+  height:100%;
+}
+
+.logo {
+  width:200px; 
+  height:200px;
+  border-radius:150px; 
+  -webkit-border-radius: 150px; 
+  -moz-border-radius: 150px;
+  background: url(/img/assets/maltese.png) no-repeat;
+  box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+  margin: 2% 0 0 12%;
+}
