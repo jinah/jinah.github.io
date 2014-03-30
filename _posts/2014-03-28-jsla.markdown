@@ -1,5 +1,5 @@
 ---
-layout: test1
+layout: default
 title: ng-meetup
 excerpt: wherein Ari Lerner tells us to buy his book...
 ---

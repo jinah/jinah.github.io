@@ -1,7 +1,7 @@
 ---
 layout: default
 title: What's For Lunch?
-excerpt: garlic butter mushrooms
+excerpt: first you buy mushrooms...
 ---
 # {{ page.title }}
 
